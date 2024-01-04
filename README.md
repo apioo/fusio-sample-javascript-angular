@@ -5,7 +5,7 @@ You can use the [Fusio Angular SDK](https://github.com/apioo/fusio-sdk-javascrip
 
 * `src/app/generated`  
   This folder contains the generated SDK, you can generate this at your Fusio instance with the following command: `php bin/fusio generate:sdk --filter=frontend`
-* `</code>`  
+* `src/app/config-builder.ts`  
   Contains the configuration of your backend app.
 
 ## Development server
